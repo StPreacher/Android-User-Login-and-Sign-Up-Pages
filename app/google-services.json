@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "766581714968",
+    "firebase_url": "https://user-login-3.firebaseio.com",
+    "project_id": "user-login-3",
+    "storage_bucket": "user-login-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766581714968:android:20b24107dfeaa27011936d",
+        "android_client_info": {
+          "package_name": "com.mucahiddogan.userlogin3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766581714968-c37gqck43euvkr5glqgs3vkd90gmgo4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28U0RVYEuB6IRavBUMDFCvu-XVFYvu5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766581714968-c37gqck43euvkr5glqgs3vkd90gmgo4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
